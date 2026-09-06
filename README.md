@@ -474,33 +474,9 @@ Blynk
 
 ---
 
-## 📁 Repository Structure
 
-A recommended repository structure is:
 
-```text
-Predictive-Maintenance-Medical-Equipment/
-│
-├── README.md
-│
-├── Code/
-│   └── predictive_maintenance.ino
-│
-├── Schematics/
-│   └── system_schematic.png
-│
-├── Images/
-│   ├── prototype.jpg
-│   ├── circuit.jpg
-│   └── lcd_display.jpg
-│
-├── Documentation/
-│   └── Project_Report.pdf
-│
-└── LICENSE
-```
 
-If multiple versions of the code are available:
 
 ```text
 Code/
@@ -512,24 +488,6 @@ Code/
 
 ---
 
-## 📸 Project Demonstration
-
-Add photographs of your actual prototype here.
-
-For example:
-
-```text
-### Hardware Prototype
-![Prototype](Images/prototype.jpg)
-
-### Circuit
-![Circuit](Images/circuit.jpg)
-
-### LCD Display
-![LCD Display](Images/lcd_display.jpg)
-```
-
----
 
 ## 🚀 Future Improvements
 
@@ -630,11 +588,9 @@ It demonstrates how electrical parameters such as **motor current**, along with 
 
 ---
 
-## 📄 Resume Description
 
-**Predictive Maintenance for Medical Equipment | ESP32, ACS712, DHT11, SW-420, Blynk, L298N**
 
-> Developed an IoT-enabled condition-monitoring prototype using ESP32 to continuously monitor motor current, vibration, temperature and humidity. Implemented threshold-based fault detection with automatic motor shutdown during excessive-current conditions and integrated LCD/Blynk dashboards for local and remote monitoring.
+
 
 ---
 
@@ -668,7 +624,7 @@ It is **not intended for direct deployment in safety-critical medical equipment 
 
 ## 👨‍💻 Author
 
-**Devansh Sharma**
+**Vineet Pal**
 
 B.Tech — Electrical & Electronics Engineering
 
